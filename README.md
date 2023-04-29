@@ -5,3 +5,4 @@ This is an End-To-End Data Engineering Project using Airflow and Python. In this
 
 ## Architecture Diagram:
 
+![Architecture diagram of Twitter Data Pipeline using Airflow Project](https://github.com/shrutimodiii/Twitter_Data_pipeline_using_Airflow/blob/main/Architecture%20Diagram%20Airflow%20Project.png)
